@@ -4,8 +4,7 @@ That project is a solutions for bar where sell artesanal beers.
 
 ## The solution
 
-Theres an aws lambda where store at database the information about the volume of the kegs and the tempeture about the cold chamber.
-The project has some business logic to show theses volumes interacvely to the user.
+There's an AWS Lambda function that stores information about the volume of kegs and the temperature inside the cold chamber in a database. The project also incorporates business logic to interactively display these volumes to the user.
 
 # Stacks
 
