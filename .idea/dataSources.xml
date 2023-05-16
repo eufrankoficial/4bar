@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="4bar Local" uuid="02e837d7-15ba-4035-8f07-ad82a8315cf6">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="4bar Prod" uuid="38f82e9d-5a3b-4d5c-8645-95a6b467c1ca">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://database4bar.cwbxiuy5y65r.us-east-2.rds.amazonaws.com:3306</jdbc-url>
+    </data-source>
+  </component>
+</project>

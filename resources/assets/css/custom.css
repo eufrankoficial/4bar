@@ -1,0 +1,15 @@
+.ribbon .ribbon-box.red::before {
+    border-color: rgb(225, 88, 88) transparent rgb(225, 88, 88) rgb(225, 88, 88);
+}
+
+.ribbon .ribbon-box.red {
+    background: rgb(225, 88, 88) !important;
+}
+
+.card .header .size-custom-30 {
+    font-size: 30px !important;
+}
+
+.border-orange {
+    border: 1px solid #fd7e14 !important;
+}
